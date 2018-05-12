@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '32582'
     url: http://www.gutenberg.org/2009/agents/32582
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27269#Margot-la-Ravaudeuse
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2008-11-15'
 gutenberg_type: Text

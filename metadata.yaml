@@ -1,0 +1,31 @@
+_repo: Margot-la-Ravaudeuse_27269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fougeret de Monbron, Louis Charles
+    aliases:
+    - Montbron, Louis Charles Fougeret de
+    - De Monbron, Louis Charles Fougeret
+    - Monbron, Louis Charles Fougeret de
+    birthdate: 1706
+    deathdate: 1760
+    gutenberg_agent_id: '32582'
+    url: http://www.gutenberg.org/2009/agents/32582
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2008-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27269'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Courtesans -- France -- Fiction'
+title: Margot la Ravaudeuse
+url: http://www.gutenberg.org/ebooks/27269
